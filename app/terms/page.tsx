@@ -1,0 +1,1 @@
+export default function Page(){return <main className="max-w-3xl mx-auto px-5 py-16"><h1 className="text-4xl font-black mb-6">Terms of Use</h1><p className="text-slate-600 leading-8">Tools are provided as-is. Verify all outputs. Do not use the tools for unlawful purposes. Review and customize these terms before public launch.</p></main>}

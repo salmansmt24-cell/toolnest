@@ -1,0 +1,1 @@
+export default function Page(){return <main className="max-w-3xl mx-auto px-5 py-16"><h1 className="text-4xl font-black mb-6">Privacy Policy</h1><p className="text-slate-600 leading-8">Most tools run locally in your browser. No uploaded files are intentionally sent to our server. Add accurate analytics, advertising and contact disclosures before launch.</p></main>}

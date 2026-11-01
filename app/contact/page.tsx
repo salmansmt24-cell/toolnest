@@ -1,0 +1,1 @@
+export default function Page(){return <main className="max-w-3xl mx-auto px-5 py-16"><h1 className="text-4xl font-black mb-6">Contact</h1><p className="text-slate-600 leading-8">For support, please add your verified contact email before publishing.</p></main>}
